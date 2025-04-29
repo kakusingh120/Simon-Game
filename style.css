@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    /* background-color: pink; */
+    border: 10px solid black;
+    border-radius: 20%;
+    margin-bottom: 35px;
+}
+
+h1,h2{
+    color: rgb(244, 226, 162);
+}
+
+.pink{
+    background-color: rgba(255, 105, 180, 0.841);
+}
+
+.red{
+    background-color: rgba(255, 68, 0, 0.808);
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.blue{
+    background-color: rgba(45, 119, 179, 0.96);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line1{
+    margin-right: 35px;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
